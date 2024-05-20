@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "547351776280",
+    "project_id": "uwulesson",
+    "storage_bucket": "uwulesson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547351776280:android:5ce521df5b65d4c386076d",
+        "android_client_info": {
+          "package_name": "com.aaostudios.uwulesson"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547351776280-0c4lsu8k4houbnbn201ru4dv3jlqgcth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnYDtppXs--j7GpnxjtKJGYllCCLI1NDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547351776280-0c4lsu8k4houbnbn201ru4dv3jlqgcth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
